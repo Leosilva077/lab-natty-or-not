@@ -19,7 +19,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
+
 # Título do Projeto: Aventuras na Galáxia 🌌
 
 ## 📒 Descrição
@@ -37,11 +37,13 @@ Crie uma imagem de uma aventura espacial deslumbrante e detalhada, com naves esp
 ## 🚀 Resultados
 Criamos um portfólio de imagens deslumbrantes e realistas de aventuras na galáxia, demonstrando o poder das IAs na criação de arte digital inspirada pelo espaço sideral.
 
-https://www.bing.com/images/create/crie-uma-imagem-de-uma-aventura-espacial-deslumbra/1-666a2d7acc0d4028b1e1cefcf1d97cab?id=lpUmyGWSpXz5mthXiJAong%3d%3d&view=detailv2&idpp=genimg&thId=OIG3.QjiOs1qsLqfdrfF5t.Lm&FORM=GCRIDP
+![Link da Imagem](https://www.bing.com/images/create/crie-uma-imagem-de-uma-aventura-espacial-deslumbra/1-666a2d7acc0d4028b1e1cefcf1d97cab?id=lpUmyGWSpXz5mthXiJAong%3d%3d&view=detailv2&idpp=genimg&thId=OIG3.QjiOs1qsLqfdrfF5t.Lm&FORM=GCRIDP)
+
+
 
 ## 💭 Reflexão (Opcional)
 Criar aventuras espaciais com IA foi um desafio emocionante. Aprendemos que com criatividade e ferramentas avançadas, é possível alcançar resultados que são tanto visualmente impressionantes quanto tecnologicamente sofisticados.
-```
+
 
 ### Exemplos e Insigths
 
